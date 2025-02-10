@@ -1,0 +1,82 @@
+{
+    "Data": [
+      {
+        "tag": "start",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day"
+        ],
+        "responses": [
+          "Hey :-)",
+          "Hello, thanks for visiting",
+          "Hi there, what can I do for you?",
+          "Hi there, how can I help?"
+        ]
+      },
+      {
+        "tag": "end",
+        "patterns": ["Bye", "See you later", "Goodbye"],
+        "responses": [
+          "See you later, thanks for visiting",
+          "Have a nice day",
+          "Bye! Come back again soon."
+        ]
+      },
+      {
+        "tag": "restaurantinsidesrm",
+        "patterns": [
+            "What are the restaurants inside SRM?",
+            "List the top 5 restaurants inside SRM",
+            "Can you name some restaurants in SRM?",
+            "Tell me about dining options in SRM",
+            "Where can I eat inside SRM?"
+        ],
+        "responses": [
+            [
+            "Here are some popular restaurants inside SRM University:",
+            "1. Restaurant 1",
+            "2. Restaurant 2",
+            "3. Restaurant 3",
+            "4. Restaurant 4",
+            "5. Restaurant 5"
+            ],
+            [
+            "You can check out these restaurants inside SRM University:",
+            "1. Restaurant 1",
+            "2. Restaurant 2",
+            "3. Restaurant 3",
+            "4. Restaurant 4",
+            "5. Restaurant 5"
+            ],
+            [
+            "Some of the well-known restaurants within SRM University are:",
+            "1. Restaurant 1",
+            "2. Restaurant 2",
+            "3. Restaurant 3",
+            "4. Restaurant 4",
+            "5. Restaurant 5"
+            ],
+            [
+            "SRM University has several dining options including:",
+            "1. Restaurant 1",
+            "2. Restaurant 2",
+            "3. Restaurant 3",
+            "4. Restaurant 4",
+            "5. Restaurant 5"
+            ],
+            [
+            "For dining inside SRM University, you can visit:",
+            "1. Restaurant 1",
+            "2. Restaurant 2",
+            "3. Restaurant 3",
+            "4. Restaurant 4",
+            "5. Restaurant 5"
+            ]
+        ]
+      }
+    ]
+  }
